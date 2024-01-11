@@ -93,9 +93,13 @@
     }
 }
 
+#h4 {
+    font-size: 140%;
+}
 
-
-
+#fixedpad {
+    padding-bottom: 6%;
+}
 
 
 
