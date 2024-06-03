@@ -1,0 +1,65 @@
+
+body {
+    text-align: center;
+    background-image:url(../img/BSyx_VJNBrE2av17_fcGGmIu1G5xKbu2Q0FNyhmddvc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+#title {
+    background-color: white;
+    display: inline-block;
+}
+
+#numberItSelf {
+    margin-top: 10%;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    background:white;
+    width:30%;
+}
+
+.buttonNum {
+    text-align: center;
+    margin-top:10px;
+    font-size: 60px;
+    padding: 0%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#japaneseNumberItSelf {
+    margin-top: 10%;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    background:white;
+    width:30%;
+}
+
+@media only screen and (max-width: 600px) {
+    #numberItSelf {
+        margin-top: 20%;
+        font-size: 250%;
+        text-align: center;
+        color: black;
+        background:white;
+        width:30%;
+    }
+
+    body {
+        background-repeat: repeat;
+    }
+
+    .buttonNum {
+        text-align: center;
+        margin-top:5%;
+        font-size: 200%;
+        padding: 0%;
+        border-radius: 10px;
+    }
+  }
+
+  
