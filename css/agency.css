@@ -179,6 +179,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  padding-bottom:20%
 }
 
 header.masthead .intro-text {
