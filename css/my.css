@@ -34,6 +34,10 @@
     border-bottom-left-radius: 20px;
  }  */
 
+ .sexCompany {
+    padding-bottom:6%;
+ }
+
  #omniFoodPhotoSize{
      height: 190px;
  }
