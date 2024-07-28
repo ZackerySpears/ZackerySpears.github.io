@@ -121,7 +121,7 @@ const quizData = [
       quiz.innerHTML = `  
          <h2>You answered ${score}/${quizData.length} questions correctly</h2>  
          <button onclick="history.go(0)">Play Again</button> 
-         <button><a href = "../index.html">Home</a></button> 
+         <button><a href = "./index.html">Home</a></button> 
        `  
      }   
     }  
